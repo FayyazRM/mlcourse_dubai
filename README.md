@@ -17,10 +17,10 @@ All lectures will be covered by tutors with the practical experience from Reacto
 
 ### Schedule of Lectures
 0. Introduction, 19.02.2020
-1. Exploratory Data Analysis with Pandas, 26.02.2020
-2. Visual Data Analysis with Python, 11.03.2020 (???)
-3. Decision Trees
-4. Logistic Regression
+1. Exploratory Data Analysis with Pandas, 25.03.2020
+2. Visual Data Analysis with Python, 01.04.2020
+3. Decision Trees, 08.04.2020
+4. Logistic Regression, 15.04.2020
 5. Ensembles and Random Forest
 6. Linear regression and regularization
 7. Unsupervised Learning: Principal Component Analysis and Clustering
@@ -33,18 +33,14 @@ All lectures will be covered by tutors with the practical experience from Reacto
 Ratings are updated after each assignment. The link can be found here - https://docs.google.com/spreadsheets/d/1pbfhIyDURLiLWVHZGWAPC_g9l7DHSmQb2v7mrvKzmPc/edit?usp=sharing
 
 
-### Calendar and Deadlines
-
-Current deadlines (see also the assignments page):
-
-A1. Pandas and data analysis. **Deadline: 11.03.2020 23:59**
-
-All deadlines are 23:59 (Dubai time).
-
 ### Assignments
 Assignments are announced in the **#mlcourse_dubai** channel in ODS Slack team (pinned items). Also, links to fresh assignments are provided in the Readme file of the course repository. Apart from that, you can practice with demo assignments, don’t confuse them with “real” ones
 
-A1. Pandas and data analysis. **Deadline: 11.03.2020 23:59**
+A1. Pandas and data analysis 31.03.2020
+
+A2. Visualization 07.04.2020
+
+All deadlines are 23:59 (Dubai time).
 
 ### Quizzes & Live sessions
 Quizzes are intended to check your understanding of theory behind the applied approaches. Will be announced in the #mlcourse_dubai channel as well.
@@ -57,5 +53,5 @@ TBA
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
 
-Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
+Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/) Slack team.
 Fill in this [form](http://forms.gle/XTvhyNhuevV1QV3F8) to get invitation to the channel 
