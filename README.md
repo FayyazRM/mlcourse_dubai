@@ -28,6 +28,10 @@ All lectures will be covered by tutors with the practical experience from Reacto
 9. SGD with Vowpal Wabbit
 10. Gradient Boosting and CatBoost
 
+### Video Recordings:
+
+https://bit.ly/3csuc0g
+
 ### Students ratings
 
 Ratings are updated after each assignment. The link can be found here - https://docs.google.com/spreadsheets/d/1pbfhIyDURLiLWVHZGWAPC_g9l7DHSmQb2v7mrvKzmPc/edit?usp=sharing
@@ -40,6 +44,8 @@ A1. Pandas and data analysis 31.03.2020
 
 A2. Visualization 07.04.2020
 
+A4. Linear Regression 23.04.2020
+
 All deadlines are 23:59 (Dubai time).
 
 ### Quizzes & Live sessions
@@ -48,7 +54,9 @@ Quizzes are intended to check your understanding of theory behind the applied ap
 TBA
 
 ### Kaggle competitions
-TBA
+
+1. [Decision Trees and KNN](https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw) **Deadline: 30.04.2020**
+
 
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
